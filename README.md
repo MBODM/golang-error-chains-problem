@@ -1,2 +1,2 @@
 # golang-error-chains-problem
-Very simple sample code, for a StackOverflow question about error-chains in Go/golang.
+Simple sample code, for a StackOverflow question about error-chains in Go.
